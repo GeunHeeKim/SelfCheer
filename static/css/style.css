@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0
+}
+/* view */
+.main-text-area {
+  margin: 10px auto;
+  width: 300px;
+  border: 1px solid #999;
+  background: #ddd;
+  min-height: 300px
+}
+ul {
+  list-style: none
+}
+.main-btns {
+  margin: 10px auto;
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+}
+.bg-full.view {
+  background: #f7e1e8
+}
+.bg-full.delete {
+  background: #e8efff
+}
+.bg-full.view {
+  background: #fcf3e0
+}

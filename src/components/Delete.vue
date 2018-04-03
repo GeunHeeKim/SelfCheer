@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-full delete">
     delete page
   </div>
 </template>
